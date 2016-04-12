@@ -5,7 +5,7 @@
 <context>
     <name>KAboutDlg</name>
     <message>
-        <source>About WPS Office Cloud</source>
+        <source>عن WPS Office السحابي </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13,7 +13,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office Cloud is an office platform designed to accommodate teamwork across multiple people, files and platforms. It provides various office services, such as document storage, coordination, discussions, tracking, cross-platform preview and editing.</source>
+        <source>WPS office  هو منصة مكتبيه مصممة لملائمة العمل الجماعي بين عدة اشخاص ، والملفات والبرامج. ويوفر الخدمات المكتبية المختلفة، مثل تخزين الوثائق، والتنسيق، والمناقشات، وتتبع، عبر اكثر من منصة عمل  والتحرير.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -48,7 +48,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;About</source>
+        <source>&amp;عن</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -59,15 +59,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>الغاء</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide</source>
+        <source>اخفاء</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OK</source>
+        <source>موافق</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -124,7 +124,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>حذف</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
